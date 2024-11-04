@@ -1,8 +1,4 @@
-# Title: Global Land February - January Average Temperature Anomalies
-# Units: Degrees Celsius
-# Base Period: 1901-2000
-# Missing: -999
-Year,Anomaly
+year,Anomaly
 1999,0.89
 2000,0.62
 2001,0.62
@@ -19,7 +15,7 @@ Year,Anomaly
 2012,1.06
 2013,1.08
 2014,1.05
-2015,1.10
+2015,1.1
 2016,1.38
 2017,1.63
 2018,1.44
